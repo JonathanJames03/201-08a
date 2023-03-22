@@ -1,0 +1,14 @@
+section {
+    display: flex;
+}
+
+  article p{
+  float: right;
+}
+article img{
+    float: left;
+}
+
+nav{
+    display:flex;
+}
